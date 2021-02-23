@@ -26,4 +26,5 @@ a for loop. The greatest sum, its arrival date, and its departure date are saved
 The running time of Kadane’s Algorithm is O(n).
 
 Testing
+
 The test cases are the same used across across all 3 algorithms.
